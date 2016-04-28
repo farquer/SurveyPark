@@ -1,0 +1,10 @@
+/applicationContext.xml
+/cn
+/ehcache.xml
+/hibernate.cfg.xml
+/jdbc.properties
+/junit
+/log4j.properties
+/struts.xml
+/surveyI18N.properties
+/template
